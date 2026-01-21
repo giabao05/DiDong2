@@ -1,0 +1,16 @@
+# Node
+node_modules/
+
+# Expo
+.expo/
+dist/
+expo-env.d.ts
+
+# Firebase
+firebase-seed/serviceAccountKey.json.json
+
+# Logs
+*.log
+
+# OS
+.DS_Store
